@@ -1,14 +1,3 @@
-"""
-num1 = float(input("Digite o primeiro numero: "))
-num2 = float(input("Digite o segundo numero: "))
-num3 = float(input("Digite o terceiro numero: "))
-
-resultado = num1 + (num2 * num3)
-
-print(f"O resultado é {resultado}")
-
-"""
-
 def somar(a, b):
     return a + b
 
